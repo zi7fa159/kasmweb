@@ -1,2 +1,2 @@
-FROM kasmweb/centos-7-desktop:1.12.0
+FROM kasmweb/desktop-deluxe:1.12.0
 EXPOSE 6901
